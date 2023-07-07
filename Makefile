@@ -1,2 +1,2 @@
 make say-hello:
-	Hello, World!
+	@printf "%s\n" "Hello, World!"

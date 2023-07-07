@@ -1,5 +1,5 @@
 # Name of workflow
-name: Hello CI
+name: hello-world
 
 on:
   - push
